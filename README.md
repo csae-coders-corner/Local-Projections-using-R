@@ -3,3 +3,6 @@
 
 # Local-Projections-using-R
 
+Local Projections (Jordà 2005, AER) are a convenient and flexible way to estimate dynamic, causal effects of a policy of interest several time periods after it comes into effect. View the a Jupyter Notebook to find out more.
+
+**Karthik Abhiramapuram Sridhar, DPhil Candidate at the CSAE in the Department of Economics, University of Oxford. 29 April 2024** 
